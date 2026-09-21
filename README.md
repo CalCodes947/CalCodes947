@@ -1,24 +1,47 @@
-# 👋 Hi, I'm Calvin Prakash!
+# Hi, I'm Calvin Prakash 👋
 
-I am a 12th-grade PCM student from Mumbai, India, with a strong passion for technology, data engineering, and programming. I love bridging the gap between classroom science concepts and real-world software applications by building practical projects.
+### FY B.Tech CSE Student @ FCRIT | Python | PostgreSQL | AI & Machine Learning
 
-Right now, I am focusing heavily on mastering **Python** and setting up a rock-solid foundation for a future career in **Data Science & AI/ML**.
+I'm a Computer Science Engineering student interested in **Artificial Intelligence, Machine Learning, and Data Science**.
 
----
+I'm currently building a strong foundation in programming, databases, data manipulation, and problem-solving while working on practical projects to apply what I learn.
 
-### 🚀 About Me
-* 🎓 **Current Status:** 12th Grade PCM Student (Tech-Oriented)
-* 🧠 **Learning Goals:** Deepening my understanding of core computer science architectures, data structures, and algorithms.
+### 🚀 What I'm Working On
 
----
+- 🐍 Strengthening my **Python** programming skills
+- 🔢 Exploring **NumPy** and data manipulation
+- 🗄️ Learning and working with **PostgreSQL**
+- 🤖 Exploring **AI & Machine Learning**
+- 🧠 Improving my problem-solving and programming fundamentals
+- 🛠️ Building practical projects and documenting my learning journey
 
-### 🛠️ Tech Stack & Learning Toolkit
-* **Languages:** Python 🐍 (Core syntax, File I/O, Error Handling)
-* **Future Stack:** Exploring Data Science libraries & AI/ML pipelines soon!
-* **Tools:** VS Code, Git, GitHub
+### 🧰 Technologies & Tools
 
----
+**Languages**
+- Python
+- C++ *(learning for DSA)*
 
-### 🤝 Connect with Me
-* 💼 **LinkedIn:** [Calvin Prakash on LinkedIn](linkedin.com/in/calvin-prakash-776864348)
-* 🌍 **Location:** Mumbai, Maharashtra, India
+**Data & Databases**
+- NumPy
+- PostgreSQL
+- SQL
+
+**Tools**
+- Git & GitHub
+- VS Code
+- Jupyter / JupyterLab
+
+### 📌 Projects
+
+Here are some of the projects I'm currently working on:
+
+- 🔢 **Matrix Calculator** — A Python-based calculator for performing matrix operations using NumPy.
+- 👕 **Jersey Registration System** — A Python project involving input validation, CSV data handling, and multiple registrations.
+- 📚 **Church Songbook App** — Working on the backend/data side of an offline Kannada-English songbook application.
+
+More projects coming as I continue learning and building.
+
+### 📖 Currently Learning
+
+```text
+Python → NumPy → SQL/PostgreSQL → Data Science → Machine Learning → AI
