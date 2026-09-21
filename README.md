@@ -37,7 +37,6 @@ Here are some of the projects I'm currently working on:
 
 - 🔢 **Matrix Calculator** — A Python-based calculator for performing matrix operations using NumPy.
 - 👕 **Jersey Registration System** — A Python project involving input validation, CSV data handling, and multiple registrations.
-- 📚 **Church Songbook App** — Working on the backend/data side of an offline Kannada-English songbook application.
 
 More projects coming as I continue learning and building.
 
